@@ -1,3 +1,4 @@
+For more info:- https://dev.to/prashantewari/how-to-lazy-load-images-414a
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
